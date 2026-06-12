@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-sukuk-issuance
+description: "BIAN Service Domain: Sukuk Issuance (Process pattern, Treasury Markets and Sukuk)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Treasury Markets and Sukuk"
+  isb/business-domain: "Sukuk"
+  isb/asset-type: "Sukuk Issuance Program"
+  isb/control-record: "Sukuk Issuance Program Procedure"
